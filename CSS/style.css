@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Oswald&family=Rubik&family=Source+Sans+Pro:wght@300&display=swap');
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card-makeup.css");
+@import url("components/card-grid.css");
+@import url("components/btn-blue.css");
+@import url("components/menu.css");
+@import url("components/banner1.css");
+@import url("components/card-acc.css");
+@import url("components/footer.css");
+
+
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	/* grow shrink basis*/
+	flex: 1 0 auto;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+}
+
+
+h2{
+	font-family: 'Rubik', sans-serif;
+	color: #B95F62;
+	font-size: 30px;
+	margin-left: 10px;
+}
+
+h3{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 40px;
+}
+
+
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+
+}
+
+ul{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	list-style-type: none;
+
+}
